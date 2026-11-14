@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794685269|4185598';
+const CACHE_VERSION = '1794686657|3213137';
 /** @type {string} */
 const CACHE_PREFIX = 'Skyline Brawl-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
