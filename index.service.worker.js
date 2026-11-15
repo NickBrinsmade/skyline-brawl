@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794764482|3818521';
+const CACHE_VERSION = '1794773261|7694570';
 /** @type {string} */
 const CACHE_PREFIX = 'Superbrawl-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
